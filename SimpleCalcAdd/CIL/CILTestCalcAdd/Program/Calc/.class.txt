@@ -1,0 +1,4 @@
+.class auto ansi nested private beforefieldinit Calc
+       extends [mscorlib]System.Object
+{
+} // end of class Calc

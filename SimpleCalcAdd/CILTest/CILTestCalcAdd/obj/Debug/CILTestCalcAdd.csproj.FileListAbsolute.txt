@@ -1,0 +1,7 @@
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\bin\Debug\CILTestCalcAdd.exe.config
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\bin\Debug\CILTestCalcAdd.exe
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\bin\Debug\CILTestCalcAdd.pdb
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\obj\Debug\CILTestCalcAdd.csprojAssemblyReference.cache
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\obj\Debug\CILTestCalcAdd.csproj.CoreCompileInputs.cache
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\obj\Debug\CILTestCalcAdd.exe
+F:\Station\Training\C#\CIL-Testing\SimpleCalcAdd\CILTest\CILTestCalcAdd\obj\Debug\CILTestCalcAdd.pdb

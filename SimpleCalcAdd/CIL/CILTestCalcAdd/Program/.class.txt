@@ -1,0 +1,4 @@
+.class private auto ansi beforefieldinit CILTestCalcAdd.Program
+       extends [mscorlib]System.Object
+{
+} // end of class CILTestCalcAdd.Program
